@@ -1,0 +1,10 @@
+C:\Users\merce\source\repos\Boogle\bin\Debug\Boogle.exe.config
+C:\Users\merce\source\repos\Boogle\bin\Debug\Boogle.exe
+C:\Users\merce\source\repos\Boogle\bin\Debug\Boogle.pdb
+C:\Users\merce\source\repos\Boogle\obj\Debug\Boogle.csproj.AssemblyReference.cache
+C:\Users\merce\source\repos\Boogle\obj\Debug\Boogle.Properties.Resources.resources
+C:\Users\merce\source\repos\Boogle\obj\Debug\Boogle.csproj.GenerateResource.cache
+C:\Users\merce\source\repos\Boogle\obj\Debug\Boogle.csproj.CoreCompileInputs.cache
+C:\Users\merce\source\repos\Boogle\obj\Debug\Boogle.exe
+C:\Users\merce\source\repos\Boogle\obj\Debug\Boogle.pdb
+C:\Users\merce\source\repos\Boogle\obj\Debug\Boogle.Form1.resources
